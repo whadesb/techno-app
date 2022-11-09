@@ -1,0 +1,12 @@
+.menu{
+    font-size: 1.2rem;
+
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 15px;
+}
